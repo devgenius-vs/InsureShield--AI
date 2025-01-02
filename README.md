@@ -70,8 +70,6 @@ We applied a variety of models to analyze the dataset, including both supervised
 ### Supervised Learning Models:
 - Logistic Regression
 - Decision Tree Classifier
-- Random Forest Classifier
-- Gradient Boosting Classifier
 - XGBoost Classifier
 
 ### Unsupervised Learning Models:
@@ -84,7 +82,6 @@ We applied a variety of models to analyze the dataset, including both supervised
 - Precision
 - Recall
 - F1 Score
-- AUC-ROC Curve
 
 ### Key Features and Insights
 - **EDA (Exploratory Data Analysis):** Conducted a thorough analysis of the dataset, identifying key patterns and outliers related to fraudulent claims.
