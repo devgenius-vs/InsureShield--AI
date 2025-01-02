@@ -3,10 +3,6 @@
 ## Project Overview
 This repository contains the work of **Anomaly Avengers**, a team dedicated to solving the problem statement: **AI-Driven Fraud Detection and Prevention in Insurance**. Our focus is on developing an effective system to detect and prevent fraudulent activities in insurance claims using AI techniques.
 
-## Team Details
-- **Team Name:** Anomaly Avengers  
-- **Team Leader:** Vijai Suria M
-
 ## Problem Statement
 To design an AI-powered solution for fraud detection and prevention in the insurance industry. The project involves exploratory data analysis (EDA), feature engineering, and implementation of both supervised and unsupervised machine learning models to identify fraudulent claims effectively.
 
