@@ -1,7 +1,7 @@
 # Anomaly Avengers
 
 ## Project Overview
-This repository c\\\ontains the work of **Anomaly Avengers**, a team dedicated to solving the problem statement: **AI-Driven Fraud Detection and Prevention in Insurance**. Our focus is on developing an effective system to detect and prevent fraudulent activities in insurance claims using AI techniques.
+This repository contains the work of **Anomaly Avengers**, a team dedicated to solving the problem statement: **AI-Driven Fraud Detection and Prevention in Insurance**. Our focus is on developing an effective system to detect and prevent fraudulent activities in insurance claims using AI techniques.
 
 ## Team Details
 - **Team Name:** Anomaly Avengers  
