@@ -1,7 +1,7 @@
-# Anomaly Avengers
+# InureShield AI
 
 ## Project Overview
-This repository contains the work of **Anomaly Avengers**, a team dedicated to solving the problem statement: **AI-Driven Fraud Detection and Prevention in Insurance**. Our focus is on developing an effective system to detect and prevent fraudulent activities in insurance claims using AI techniques.
+This repository contains the dedicated work to solving the problem statement: **AI-Driven Fraud Detection and Prevention in Insurance**. Our focus is on developing an effective system to detect and prevent fraudulent activities in insurance claims using AI techniques.
 
 ## Problem Statement
 To design an AI-powered solution for fraud detection and prevention in the insurance industry. The project involves exploratory data analysis (EDA), feature engineering, and implementation of both supervised and unsupervised machine learning models to identify fraudulent claims effectively.
@@ -84,3 +84,4 @@ We applied a variety of models to analyze the dataset, including both supervised
 - **Feature Engineering:** Processed and transformed raw data into meaningful features for model training.
 - **Model Comparison:** Evaluated multiple models to identify the best-performing approach for fraud detection.
 
+Note: For a deeper understanding of our Product's novel aspects and Unique Selling Propositions (USPs), please refer to our Idea Submission Slides. It provides a comprehensive overview of each feature.
