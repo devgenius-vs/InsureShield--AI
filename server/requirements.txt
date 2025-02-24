@@ -13,3 +13,7 @@ flask-bcrypt
 flask-jwt-extended 
 pymongo
 twilio
+joblib 
+pandas 
+shap 
+google-genai
