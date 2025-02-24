@@ -1,0 +1,15 @@
+flask 
+flask-cors 
+torch 
+easyocr 
+opencv-python-headless 
+numpy 
+pillow 
+requests 
+pymupdf 
+torchvision
+python-dotenv
+flask-bcrypt 
+flask-jwt-extended 
+pymongo
+twilio

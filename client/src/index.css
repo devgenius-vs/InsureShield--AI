@@ -1,0 +1,9 @@
+@import url("https://fonts.googleapis.com/css2?family=Lato&display=swap");
+@import "tailwindcss";
+
+body {
+  font-family: "Lato", "serif";
+  color: #2c2a67;
+  font-weight: 400;
+  background-image: linear-gradient(to right, #720d4733, #28007133);
+}
