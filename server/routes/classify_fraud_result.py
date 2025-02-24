@@ -12,7 +12,7 @@ model = joblib.load("model/fraud_classify_model.pkl")
 fraud_bp = Blueprint('fraud', __name__)
 
 # Set API Key
-GOOGLE_API_KEY = "AIzaSyAC-8MK8GHlPxvTNgqmywIlf541yR5GdhY"
+GOOGLE_API_KEY = "<your_api_key>"
 genai.configure(api_key=GOOGLE_API_KEY)
 
 # Function to get Gemini response
